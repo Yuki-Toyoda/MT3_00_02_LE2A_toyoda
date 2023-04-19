@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3_00_02_LE2A_toyoda", "MT3_00_02_LE2A_toyoda.vcxproj", "{B0968CE7-823D-4B0E-892C-076A2CD68718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0968CE7-823D-4B0E-892C-076A2CD68718}.Debug|x64.ActiveCfg = Debug|x64
+		{B0968CE7-823D-4B0E-892C-076A2CD68718}.Debug|x64.Build.0 = Debug|x64
+		{B0968CE7-823D-4B0E-892C-076A2CD68718}.Release|x64.ActiveCfg = Release|x64
+		{B0968CE7-823D-4B0E-892C-076A2CD68718}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CBD3528-9B2B-452D-9117-8411EB68FFD1}
+	EndGlobalSection
+EndGlobal
